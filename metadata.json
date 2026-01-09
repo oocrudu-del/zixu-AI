@@ -1,0 +1,8 @@
+{
+  "name": "Zixu AI",
+  "description": "A poetic and scholarly AI companion inspired by the legendary Master Zixu, blending ancient wisdom with modern intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
